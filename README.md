@@ -4,7 +4,7 @@
 <h3 align="center">
 <a href="https://www.linkedin.com/in/pz1971/"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/LinkedIn-profile-blue"> </a>
 <a href="https://www.facebook.com/pz.parvez1971"> <img align="center" width="100" height="20" src="https://img.shields.io/badge/Facebook-profile-blue"> </a>
-<a href="https://www.facebook.com/pz.parvez1971"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/Twitter-profile-00acee"> </a>
+<a href="https://twitter.com/pz_parvez"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/Twitter-profile-00acee"> </a>
 </h3>
 <h3 align="center">
   <a href="https://codeforces.com/profile/pz1971"> <img align="center" width="90" height="20" src="https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=%24.result%5B%3A1%5D.maxRating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dpz1971"> </a>
