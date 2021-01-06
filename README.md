@@ -14,6 +14,9 @@
   <a href="https://uhunt.onlinejudge.org/id/971338"> <img align="center" width="100" height="20" src="https://img.shields.io/badge/uHunt-profile-%23C31756"> </a>
   <a href="https://www.stopstalk.com/user/profile/pz1971"> <img align="center" width="100" height="20" src="https://img.shields.io/badge/stopstalk-profile-%23D92333"> </a>
 </h3>
+<h1 align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=pz1971&theme=onedark"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=pz1971&theme=onedark"> </a>
+</h1>
 
 ![Parvez's github stats](https://github-readme-stats.vercel.app/api?username=pz1971&show_icons=true&theme=graywhite&hide=prs&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pz1971&layout=compact)
