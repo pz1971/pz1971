@@ -16,22 +16,19 @@ var I_am = {
   "email": "parvez.pz1971@gmail.com",
   "from": "Bangladesh",
   "status": "looking for a job",
+  "graduation" : {
+    "university": "Ahsanullah University of Science and Technology",
+    "degree": "Bachelor of Science",
+    "major": "Computer Science",
+    "year": "2022 (expected)"
+  },
   "interests": [
-    "Backend Development",
-    "node.js",
-    "python",
-    "java",
-    "c++",
+    "Backend Development", "node.js", "python", "java", "c++",
   ],
   "skills": [
-    "competitive programming",
-    "problem solving",
-    "data structures",
-    "algorithms",
-    "computer architecture",
-    "object oriented programming",
-    "web development",
-    "version control",
+    "competitive programming", "problem solving", "data structures",
+    "algorithms", "object oriented programming", "linux",
+    "web development", "version control",
   ],
 };
 ```
