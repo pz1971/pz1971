@@ -1,6 +1,6 @@
 <!-- logo centered -->
 <h1 align="center">
-  <img src="logo.jpg" alt="logo" width="200" height="200"/>
+  <img src="logo.jpg" alt="DP" width="200" height="200"/>
 </h1>
 
 # Hi there! 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=pz1971.pz1971)
@@ -35,7 +35,10 @@ var I_am = {
 4. [OnlineJudge](https://uhunt.onlinejudge.org/id/971338) : Solve Count = **360+**
 5. [LightOJ](https://lightoj.com/user/pz1971) : Solved = **85+**
 6. [SPOJ](https://www.spoj.com/users/pz1971) : Solve Count = **60+** 
-7. Participated in 7 Inter University Programming Contests.
+7. Participated in 7 Inter University Programming Contests (6 team contests and 1 individual contest).
+8. 19th in [Cefalo CodeFiesta 2022: AUST IUPC](https://algo.codemarshal.org/contests/aust-2022/standings) (Team contest)
+9.  43rd in [SELISE Coding Challenge 2020](https://toph.co/c/selise-coding-challenge-2020/) (Individual contest)
+10. 21st in [BRACU Traction IUPC 2020](https://toph.co/c/bracu-traction-inter-university) (Individual contest)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
