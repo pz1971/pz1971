@@ -1,7 +1,7 @@
 # Hi there! 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=pz1971.pz1971)
 [![](https://img.shields.io/static/v1?logo=gmail&label=%20&message=parvez.pz1971@gmail.com&style=flat-sqaure&color=white&logoColor=red)](mailto:parvez.pz1971@gmail.com)
 [![](https://img.shields.io/static/v1?logo=linkedin&label=%20&message=pz1971&style=flat-sqaure&color=white&logoColor=blue)](https://www.linkedin.com/in/pz1971/)
-[![](https://img.shields.io/static/v1?logo=twitter&label=%20&message=pz1971&style=flat-sqaure&color=white&logoColor=1DA1F2)](https://twitter.com/pz_parvez)
+[![](https://img.shields.io/static/v1?logo=twitter&label=%20&message=pz_parvez&style=flat-sqaure&color=white&logoColor=1DA1F2)](https://twitter.com/pz_parvez)
 
 ```javascript
 var I_am = {
