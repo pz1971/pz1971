@@ -1,15 +1,12 @@
-<!-- logo centered -->
-<h1 align="center">
-  <img src="logo.jpg" alt="DP" width="200" height="200"/>
-</h1>
-
 # Hi there! 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=pz1971.pz1971)
+[![](https://img.shields.io/static/v1?logo=gmail&label=%20&message=parvez.pz1971@gmail.com&style=flat-sqaure&color=white&logoColor=red)](mailto:parvez.pz1971@gmail.com)
+[![](https://img.shields.io/static/v1?logo=linkedin&label=%20&message=pz1971&style=flat-sqaure&color=white&logoColor=blue)](https://www.linkedin.com/in/pz1971/)
+[![](https://img.shields.io/static/v1?logo=twitter&label=%20&message=pz1971&style=flat-sqaure&color=white&logoColor=1DA1F2)](https://twitter.com/pz_parvez)
 
 ```javascript
 var I_am = {
   "name": "Parvez Mia",
   "title": "Competitive Programmer",
-  "email": "parvez.pz1971@gmail.com",
   "from": "Bangladesh",
   "status": "looking for a job",
   "graduation" : {
@@ -36,9 +33,9 @@ var I_am = {
 5. [LightOJ](https://lightoj.com/user/pz1971) : Solved = **85+**
 6. [SPOJ](https://www.spoj.com/users/pz1971) : Solve Count = **60+** 
 7. Participated in 7 Inter University Programming Contests (6 team contests and 1 individual contest).
-8. 19th in [Cefalo CodeFiesta 2022: AUST IUPC](https://algo.codemarshal.org/contests/aust-2022/standings) (Team contest)
-9.  43rd in [SELISE Coding Challenge 2020](https://toph.co/c/selise-coding-challenge-2020/) (Individual contest)
-10. 21st in [BRACU Traction IUPC 2020](https://toph.co/c/bracu-traction-inter-university) (Individual contest)
+8. **19th** in [Cefalo CodeFiesta 2022: AUST IUPC](https://algo.codemarshal.org/contests/aust-2022/standings) (Team contest)
+9.  **43rd** in [SELISE Coding Challenge 2020](https://toph.co/c/selise-coding-challenge-2020/) (Individual contest)
+10. **21st** in [BRACU Traction IUPC 2020](https://toph.co/c/bracu-traction-inter-university) (Individual contest)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
