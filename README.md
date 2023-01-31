@@ -8,12 +8,12 @@ var I_am = {
   "name": "Parvez Mia",
   "title": "Competitive Programmer",
   "from": "Bangladesh",
-  "status": "looking for a job",
+  "status": "working full-time",
   "graduation" : {
     "university": "Ahsanullah University of Science and Technology",
     "degree": "Bachelor of Science",
     "major": "Computer Science & Engineering",
-    "year": "2022 (expected)"
+    "year": "2022"
   },
   "interests": [
     "Backend Development", "node.js", "python", "java", "c++",
